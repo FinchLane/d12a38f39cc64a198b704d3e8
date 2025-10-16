@@ -1,1 +1,1 @@
-vless://b8cd661c-ea11-4ea4-84ad-15e93570c8e5@62.60.156.168:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=Wc4LspxAXB_GPGizEEkyOCeYYUYL0vzVyKeFC0Boqg8&sid=a51c5560f8b625e8&spx=%2F#NotBlockNet_Франция
+vless://f6428e68-ad48-479e-94a0-46e9bcf83076@94.156.112.246:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=nspk.ru&pbk=84GznGFZ6A5fTdPDoSkZ0rB-VS2Y7R4fFBR0eX-IEWk&sid=23995210736c823c&spx=%2F#NotBlockNet_Германия
